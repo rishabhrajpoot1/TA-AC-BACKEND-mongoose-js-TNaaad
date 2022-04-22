@@ -17,6 +17,9 @@ Q. Create an article Schema with fields
 - createdAt -> Date, defaults to current date
 - likes -> Number, defaults to zero
 
+
+
+
 Q. create a user schema with following fields and type
 1.name -> string
 2.email -> string
