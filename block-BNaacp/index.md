@@ -13,6 +13,11 @@ writeCode
 - import it into app.js
 - on POST request on `/users` route create a user
 
+
+
+
+
+
 Q. Insert a user into database using Model.create() OR model.save() function
 
 - insert user `{name: '', email: '', sports: ['cricket', 'khokho']}`
